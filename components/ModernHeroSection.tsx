@@ -60,7 +60,7 @@ export function ModernHeroSection() {
                   CONTACT
                 </a>
                 <a
-                  href="https://github.com/Erick-MC-Cedeno"
+                  href="https://github.com/loredounipass"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full sm:w-auto cyber-button-outline px-6 sm:px-8 py-3 sm:py-4 rounded-lg flex items-center justify-center gap-3 text-base sm:text-lg"

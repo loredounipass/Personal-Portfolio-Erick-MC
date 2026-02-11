@@ -34,7 +34,7 @@ export default function CyberpunkPortfolio() {
             }}
           />
           <div className="container mx-auto px-4 relative z-10">
-            <p className="font-orbitron text-xl font-bold glow-cyan mb-4">© 2025 ERICK_MC_CEDENO</p>
+            <p className="font-orbitron text-xl font-bold glow-cyan mb-4">© 2022 ERICK_MC_CEDENO</p>
             <div className="h-0.5 w-72 bg-gradient-to-r from-cyber-cyan via-cyber-magenta to-cyber-green mx-auto mb-4 rounded-full" />
             <p className="opacity-80 font-roboto-mono tracking-widest text-lg glow-cyan">
               MERN • MEAN • WEB3 • CLOUD • CYBERSECURITY
