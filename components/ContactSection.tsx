@@ -42,7 +42,7 @@ export function ContactSection() {
               LINKEDIN
             </a>
             <a
-              href="https://github.com/erick-mc-cedeno"
+              href="https://github.com/loredounipass"
               target="_blank"
               rel="noopener noreferrer"
               className="cyber-button-outline px-8 py-4 rounded-lg flex items-center gap-3 text-lg min-w-[180px] justify-center"
