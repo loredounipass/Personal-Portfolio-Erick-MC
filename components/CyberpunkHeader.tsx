@@ -8,7 +8,7 @@ export function CyberpunkHeader() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <div className="w-2 h-2 bg-cyber-green rounded-full mr-3 animate-pulse-glow shadow-[0_0_10px_#00ff41]" />
-            <h1 className="font-orbitron font-bold text-xl glow-cyan tracking-wider">ERICK_MC_CEDENO</h1>
+            <h1 className="font-orbitron font-bold text-xl glow-cyan tracking-wider">Software Engineer</h1>
           </div>
           <div className="flex items-center space-x-4">
             <a
@@ -20,7 +20,7 @@ export function CyberpunkHeader() {
               <Linkedin size={24} />
             </a>
             <a
-              href="https://github.com/erick-mc-cedeno"
+              href="https://github.com/loredounipass"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-cyber-cyan transition-all duration-300 hover:scale-110 hover:glow-cyan"
