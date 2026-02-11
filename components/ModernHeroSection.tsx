@@ -5,8 +5,8 @@ import { TypewriterText } from "./TypewriterText"
 import { HexagonGrid } from "./HexagonGrid"
 
 const stats = [
-  { icon: Code, value: "17+", label: "Projects", color: "#00ffff" },
-  { icon: Rocket, value: "5+", label: "Yrs Exp.", color: "#ff0080" },
+  { icon: Code, value: "21", label: "Projects", color: "#00ffff" },
+  { icon: Rocket, value: "6+", label: "Yrs Exp.", color: "#ff0080" },
   { icon: Shield, value: "100%", label: "Security", color: "#00ff41" },
   { icon: Cloud, value: "24/7", label: "Available", color: "#ffff00" },
 ]
