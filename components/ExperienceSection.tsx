@@ -23,9 +23,8 @@ export function ExperienceSection() {
             }}
           >
             <Badge
-              className={`absolute -top-2 right-5 px-3 py-1 text-xs font-bold font-orbitron text-black animate-pulse ${
-                exp.status === "ACTIVE" ? "bg-green-400 shadow-green-400/50" : "bg-pink-500 shadow-pink-500/50"
-              } shadow-lg`}
+              className={`absolute -top-2 right-5 px-3 py-1 text-xs font-bold font-orbitron text-black animate-pulse ${exp.status === "ACTIVE" ? "bg-green-400 shadow-green-400/50" : "bg-pink-500 shadow-pink-500/50"
+                } shadow-lg`}
             >
               {exp.status}
             </Badge>

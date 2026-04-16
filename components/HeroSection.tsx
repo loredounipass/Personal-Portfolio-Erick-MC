@@ -5,7 +5,7 @@ import { Button } from "./ui/button"
 
 const codeLines = [
   "> Especialista en arquitecturas MERN & MEAN",
-  "> Desarrollador Web3 & Blockchain",
+  "> Desarrollador Web3/app & Blockchain",
   "> Experto en Ciberseguridad & Cloud Computing",
   "> Innovador en tecnologías emergentes",
 ]

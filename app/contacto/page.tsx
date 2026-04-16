@@ -13,13 +13,13 @@ export default function ContactPage() {
       icon: MessageCircle,
       label: "facebook",
       value: "@Erick_MC",
-      url: "https://www.facebook.com/erick.m.cedeno.92",
+      url: "https://www.facebook.com/erick.mc.cedeno.92",
     },
     {
       icon: Video,
       label: "TikTok",
-      value: "@Erick_MC",
-      url: "https://www.tiktok.com/@loredounipass00",
+      value: "@erickcedeno00",
+      url: "https://www.tiktok.com/@erickcedeno00",
     },
     {
       icon: Mail,

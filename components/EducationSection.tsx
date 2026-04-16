@@ -25,6 +25,16 @@ export function EducationSection() {
       skills: ["Cloud Architecture", "GCP", "DevOps", "Microservices"],
       color: "green",
     },
+    {
+      id: 3,
+      title: "Legacy JavaScript Algorithms and Data Structures V8",
+      provider: "Freecodecamp",
+      date: "Apr 2026",
+      expiry: "Expires Jan 2027",
+      image: "/certificates/Javasscript-cert.png",
+      skills: ["JavaScript (ES6+)", "Algorithms", "Data Structures", "Functional Programming", "Fetch API", "Asynchronous JavaScript"],
+      color: "green",
+    },
   ]
 
   return (
@@ -104,10 +114,9 @@ export function EducationSection() {
                           key={skillIndex}
                           variant="outline"
                           className={`
-                            ${
-                              cert.color === "cyan"
-                                ? "border-cyber-cyan/50 text-cyber-cyan bg-cyber-cyan/10"
-                                : "border-cyber-green/50 text-cyber-green bg-cyber-green/10"
+                            ${cert.color === "cyan"
+                              ? "border-cyber-cyan/50 text-cyber-cyan bg-cyber-cyan/10"
+                              : "border-cyber-green/50 text-cyber-green bg-cyber-green/10"
                             }
                             hover:scale-105 transition-transform duration-200
                           `}

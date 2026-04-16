@@ -88,7 +88,7 @@ export const CVSection = () => {
             <div className="mt-8 pt-6 border-t border-cyber-cyan/20">
               <div className="flex flex-wrap justify-center gap-4">
                 <a
-                  href="https://github.com/Erick-MC-Cedeno"
+                  href="https://github.com/loredounipass"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-cyber-cyan/80 hover:text-cyber-cyan transition-colors font-roboto-mono text-sm"

@@ -80,8 +80,8 @@ Personal-Portfolio-Erick-MC/
 You can contact me directly from the portfolio contact section or through:
 - **Email:** erickcedeno558@gmail.com
 - **LinkedIn:** [Erick MC Cedeño](https://www.linkedin.com/in/erick-cedeno-3a5137230)
-- **Facebook:** [@Erick_MC](https://www.facebook.com/erick.m.cedeno.92)
-- **TikTok:** [@erickmc_cedeno](https://www.tiktok.com/@erickmc_cedeno)
+- **Facebook:** [@Erick_MC](https://www.facebook.com/erick.mc.cedeno.92)
+- **TikTok:** [@Crypto_Society](https://www.tiktok.com/@Crypto_Society)
 
 ## 📝 License
 
