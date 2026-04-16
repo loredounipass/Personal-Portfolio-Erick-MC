@@ -36,7 +36,7 @@ export function ContactSection() {
               href="https://www.linkedin.com/in/erick-cedeno-3a5137230"
               target="_blank"
               rel="noopener noreferrer"
-              className="cyber-button px-8 py-4 rounded-lg flex items-center gap-3 text-lg min-w-[180px] justify-center"
+              className="cyber-button px-8 py-4 rounded-xl flex items-center gap-3 text-lg min-w-[180px] justify-center"
             >
               <Linkedin size={20} />
               LINKEDIN
@@ -45,7 +45,7 @@ export function ContactSection() {
               href="https://github.com/loredounipass"
               target="_blank"
               rel="noopener noreferrer"
-              className="cyber-button-outline px-8 py-4 rounded-lg flex items-center gap-3 text-lg min-w-[180px] justify-center"
+              className="cyber-button-outline px-8 py-4 rounded-xl flex items-center gap-3 text-lg min-w-[180px] justify-center"
             >
               <Github size={20} />
               GITHUB
@@ -54,7 +54,7 @@ export function ContactSection() {
               href="https://mail.google.com/mail/u/0/?fs=1&to=erickcedeno558@gmail.com&tf=cm"
               target="_blank"
               rel="noopener noreferrer"
-              className="px-8 py-4 rounded-lg flex items-center gap-3 text-lg min-w-[180px] justify-center bg-gradient-to-r from-cyber-magenta to-cyber-orange text-black font-orbitron font-semibold transition-all duration-300 hover:scale-105 hover:shadow-[0_0_30px_rgba(255,0,128,0.5)]"
+              className="px-8 py-4 rounded-xl flex items-center gap-3 text-lg min-w-[180px] justify-center bg-gradient-to-r from-cyber-magenta to-cyber-orange text-black font-orbitron font-semibold transition-all duration-300 hover:scale-105 hover:shadow-[0_0_30px_rgba(255,0,128,0.5)]"
             >
               <Mail size={20} />
               EMAIL
