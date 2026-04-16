@@ -136,15 +136,15 @@ export function EducationSection() {
         <div className="mt-16 text-center animate-fade-in-up" style={{ animationDelay: "400ms" }}>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="cyber-card p-6">
-              <div className="text-3xl font-orbitron font-bold text-cyber-cyan glow-cyan mb-2">2+</div>
+              <div className="text-3xl font-orbitron font-bold text-cyber-cyan glow-cyan mb-2">3+</div>
               <div className="text-gray-300 font-roboto-mono">Professional Certifications</div>
             </div>
             <div className="cyber-card p-6">
-              <div className="text-3xl font-orbitron font-bold text-cyber-magenta glow-magenta mb-2">5+</div>
+              <div className="text-3xl font-orbitron font-bold text-cyber-magenta glow-magenta mb-2">6+</div>
               <div className="text-gray-300 font-roboto-mono">Years of Experience</div>
             </div>
             <div className="cyber-card p-6">
-              <div className="text-3xl font-orbitron font-bold text-cyber-yellow glow-yellow mb-2">2025</div>
+              <div className="text-3xl font-orbitron font-bold text-cyber-yellow glow-yellow mb-2">2026</div>
               <div className="text-gray-300 font-roboto-mono">Latest Certification</div>
             </div>
           </div>

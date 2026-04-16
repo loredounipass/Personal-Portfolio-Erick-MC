@@ -12,11 +12,11 @@ export function ExperienceSection() {
         <div className="h-0.5 w-24 bg-gradient-to-r from-transparent via-green-400 to-transparent mx-auto" />
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
         {experiences.map((exp, index) => (
           <Card
             key={index}
-            className="h-full relative animate-slideInRight border-gray-700/50 bg-gradient-to-br from-gray-900/90 to-gray-800/90"
+            className="relative animate-slideInRight border-gray-700/50 bg-gradient-to-br from-gray-900/90 to-gray-800/90 min-h-[140px]"
             style={{
               animationDelay: `${index * 0.2}s`,
               animationFillMode: "both",
@@ -29,8 +29,8 @@ export function ExperienceSection() {
               {exp.status}
             </Badge>
 
-            <CardContent className="pt-8 p-6">
-              <p className="font-roboto-mono text-cyan-500 text-sm mb-2 text-shadow-cyan">{exp.period}</p>
+            <CardContent className="pt-6 p-4">
+              <p className="font-roboto-mono text-cyan-500 text-xs mb-1 text-shadow-cyan">{exp.period}</p>
               <TypewriterText
                 text={exp.title}
                 variant="h6"
@@ -38,9 +38,9 @@ export function ExperienceSection() {
                 speed={40}
                 delay={1000 + index * 500}
                 showCursor={false}
-                className="font-orbitron font-bold text-white mb-4"
+                className="font-orbitron font-bold text-white mb-2"
               />
-              <p className="text-gray-300 font-roboto-mono leading-relaxed text-sm">{exp.description}</p>
+              <p className="text-gray-300 font-roboto-mono leading-relaxed text-xs">{exp.description}</p>
             </CardContent>
           </Card>
         ))}
